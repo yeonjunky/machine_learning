@@ -1,1 +1,2 @@
-# learn_ml
+# basics of machine learning
+
